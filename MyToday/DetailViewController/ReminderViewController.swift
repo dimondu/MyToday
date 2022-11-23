@@ -35,6 +35,8 @@ class ReminderViewController: UICollectionViewController {
         }
         
         updateSnapshot()
+        
+        navigationItem.title = NSLocalizedString("Reminder", comment: "Reminder view controller title")
     }
     
     func cellRegistrationHandler(cell: UICollectionViewListCell , indexPath: IndexPath, row: Row) {
