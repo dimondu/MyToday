@@ -84,9 +84,9 @@
 		F49288B22928C38100D02C47 /* MyToday */ = {
 			isa = PBXGroup;
 			children = (
-				F4F277E9293491FF00E19B9C /* ContentViews */,
-				F4F277E2292DF3D500E19B9C /* DetailViewController */,
 				F4F277D9292BD0BE00E19B9C /* ListViewController */,
+				F4F277E2292DF3D500E19B9C /* DetailViewController */,
+				F4F277E9293491FF00E19B9C /* ContentViews */,
 				F49288C92928C47200D02C47 /* Models */,
 				F49288B32928C38100D02C47 /* AppDelegate.swift */,
 				F49288B52928C38100D02C47 /* SceneDelegate.swift */,
