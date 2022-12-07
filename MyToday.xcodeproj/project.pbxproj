@@ -28,6 +28,7 @@
 		F4F277EF29349B0300E19B9C /* UIContentConfiguration+Stateless.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F277EE29349B0300E19B9C /* UIContentConfiguration+Stateless.swift */; };
 		F4F277F12934A26500E19B9C /* TextViewContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F277F02934A26500E19B9C /* TextViewContentView.swift */; };
 		F4F277F32934A54800E19B9C /* DatePickerContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F277F22934A54800E19B9C /* DatePickerContentView.swift */; };
+		F4FF098229406E3F0050D890 /* ProgressHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FF098129406E3F0050D890 /* ProgressHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		F4F277EE29349B0300E19B9C /* UIContentConfiguration+Stateless.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIContentConfiguration+Stateless.swift"; sourceTree = "<group>"; };
 		F4F277F02934A26500E19B9C /* TextViewContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewContentView.swift; sourceTree = "<group>"; };
 		F4F277F22934A54800E19B9C /* DatePickerContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerContentView.swift; sourceTree = "<group>"; };
+		F4FF098129406E3F0050D890 /* ProgressHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				F4F277DA292BD0F100E19B9C /* ReminderListViewController+DataSource.swift */,
 				F4F277DC292CBFE000E19B9C /* ReminderDoneButton.swift */,
 				F4F277DE292CC12E00E19B9C /* ReminderListViewController+Actions.swift */,
+				F4FF098129406E3F0050D890 /* ProgressHeaderView.swift */,
 			);
 			path = ListViewController;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				F49288B42928C38100D02C47 /* AppDelegate.swift in Sources */,
 				F4F277D8292A1B4900E19B9C /* Date+Today.swift in Sources */,
 				F49288C82928C45000D02C47 /* ReminderListViewController.swift in Sources */,
+				F4FF098229406E3F0050D890 /* ProgressHeaderView.swift in Sources */,
 				F4F277E6292F42A900E19B9C /* ReminderViewController+Section.swift in Sources */,
 				F4F277EF29349B0300E19B9C /* UIContentConfiguration+Stateless.swift in Sources */,
 				F4F277E829348FA200E19B9C /* ReminderViewController+CellConfiguration.swift in Sources */,
