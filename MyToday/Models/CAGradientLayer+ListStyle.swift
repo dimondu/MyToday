@@ -23,7 +23,7 @@ extension CAGradientLayer {
         
         switch style {
         case .all:
-            beginColor = UIColor(named: "TodatGradientAllBegin") ?? .green
+            beginColor = UIColor(named: "TodayGradientAllBegin") ?? .green
             endColor = UIColor(named: "TodayGradientAllEnd") ?? .green
         case .future:
             beginColor = UIColor(named: "TodayGradientFutureBegin") ?? .green
